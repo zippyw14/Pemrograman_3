@@ -1,0 +1,12 @@
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\bin\Debug\tes2.exe.config
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\bin\Debug\tes2.exe
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\bin\Debug\tes2.pdb
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\obj\Debug\tes2.csprojResolveAssemblyReference.cache
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\obj\Debug\tes2.frmLatihanTiga3.resources
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\obj\Debug\tes2.Properties.Resources.resources
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\obj\Debug\tes2.csproj.GenerateResource.Cache
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\obj\Debug\tes2.exe
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\tes2\tes2\obj\Debug\tes2.pdb
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\TUGAS3.2 ( Desain Menggunakan Layout )\tes2\bin\Debug\tes2.exe.config
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\TUGAS3.2 ( Desain Menggunakan Layout )\tes2\obj\Debug\tes2.exe
+D:\KL SEMESTER 3\pemrograman lanjut\New folder\3.2 DESAIN MENGGUANAKN KOMPONEN LAYOUT\TUGAS3.2 ( Desain Menggunakan Layout )\tes2\obj\Debug\tes2.pdb
